@@ -7,18 +7,14 @@ using namespace std;
 #define all(x) x.begin(), x.end()
 #ifndef ONLINE_JUDGE
 #include "prettyprint.hpp"
-#define debug(...) cout << "debug: " << #__VA_ARGS__ " = " << make_tuple(__VA_ARGS__) << endl
-#define debuga(arr, n) dbga(arr, n, #arr)
+#define debug(...) cout << "debug: " << #__VA_ARGS__ " = "; _dbg(__VA_ARGS__);
+#define debuga(arr, n) _dbga(arr, n, #arr)
 #else
 #define debug(...)
 #define debuga(arr, n)
 #endif
 typedef long long int ll;
 #define int ll
-template<typename T> void dbga(T* a, int n, string s){
-	cout << "debug: " << s << " = [";
-	while(n--){cout << *a++ << (n?", ":"");} cout << "]\n";
-}
 #define F first
 #define S second
 #define float double

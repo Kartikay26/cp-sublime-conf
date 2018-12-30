@@ -442,3 +442,20 @@ namespace std
 }
 
 #endif  // H_PRETTY_PRINT
+
+// stuff i put myself ... debug etc
+
+template<typename T>
+void _dbg(T last) {
+    std::cout << last << endl;
+}
+template<typename T, typename... Args>
+void _dbg(T first, Args... rest) {
+    std::cout << first << ", "; _dbg(rest...);
+}
+template<typename T> void _dbga(T* a, int n, std::string s){
+    std::cout << "debug: " << s << " = [";
+    while(n--){cout << *a++ << (n?", ":"");} cout << "]\n";
+}
+
+// end useless stuff
