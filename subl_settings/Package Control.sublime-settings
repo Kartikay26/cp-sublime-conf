@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Auto Fold",
+		"EasyClangComplete",
+		"EditorConfig",
+		"Github Tools",
+		"HexViewer",
+		"Package Control",
+		"PackageResourceViewer"
+	]
+}

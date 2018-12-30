@@ -1,0 +1,16 @@
+{
+  // multiline regexps must include \n.
+  // "." does not mach new lines
+  // ?<= positive lookbehind must have fixed size
+  "regexps": [ // regexps to auto-fold
+    // Example: fold all css comments /* ... */
+    "(?<=.h>)(.|\n)*?pii;"
+  ],
+
+  "extensions": [  // activate this plugin for file extensions:
+    "cpp"
+  ],
+
+  "runOnLoad": true, // auto-fold on load
+  "runOnSave": true // auto-fold on save
+}

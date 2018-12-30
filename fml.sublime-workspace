@@ -1,0 +1,1461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"max_def"
+			],
+			[
+				"wt",
+				"wt_allowed"
+			],
+			[
+				"max",
+				"max_wt"
+			],
+			[
+				"p",
+				"prev_val"
+			],
+			[
+				"prev",
+				"prev_wt"
+			],
+			[
+				"ch",
+				"chosen_val"
+			],
+			[
+				"pre",
+				"prev_wt"
+			],
+			[
+				"chos",
+				"chosen_val"
+			],
+			[
+				"c",
+				"chosen_wt"
+			],
+			[
+				"vla",
+				"values"
+			],
+			[
+				"ss",
+				"sst_2"
+			],
+			[
+				"pr",
+				"printstuff"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"gen",
+				"gen_subsets"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"debu",
+				"debug\tdebug(...)"
+			],
+			[
+				"imag",
+				"imag\tlong long imag() const"
+			],
+			[
+				"deb",
+				"debug\tdebug(...)"
+			],
+			[
+				"le",
+				"left_match\tll left_match"
+			],
+			[
+				"right",
+				"right_match\tll right_match"
+			],
+			[
+				"left",
+				"left_match\tll left_match"
+			],
+			[
+				"has",
+				"hash_value_right\tlong long hash_value_right"
+			],
+			[
+				"hash",
+				"hash_value_left\tlong long hash_value_left"
+			],
+			[
+				"fin",
+				"find\tsize_type find(const basic_string<char> &__str) const"
+			],
+			[
+				"des",
+				"destroy_till\tll destroy_till"
+			],
+			[
+				"re",
+				"real\tvoid real(long long __val)"
+			],
+			[
+				"max_",
+				"max_element\t_ForwardIterator max_element(_ForwardIterator __first, _ForwardIterator __last)"
+			],
+			[
+				"debg",
+				"debugg\tdebugg(arr, n, m)"
+			],
+			[
+				"cou",
+				"countQAQ"
+			],
+			[
+				"scor",
+				"scoremap\tmap<string, ll> scoremap"
+			],
+			[
+				"min",
+				"min_element\t_ForwardIterator min_element(_ForwardIterator __first, _ForwardIterator __last)"
+			],
+			[
+				"paths",
+				"paths_k\tll [101] paths_k"
+			],
+			[
+				"cpp",
+				"cpp\tcpp"
+			],
+			[
+				"upper",
+				"upper_bound\t_ForwardIterator upper_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val)"
+			],
+			[
+				"ans",
+				"ans_small\tll ans_small"
+			],
+			[
+				"follow",
+				"following\tll * following"
+			],
+			[
+				"dp",
+				"dp_ptr_min\tll [1001] dp_ptr_min"
+			],
+			[
+				"dp_",
+				"dp_ptr_min\tll [1001] dp_ptr_min"
+			],
+			[
+				"rev",
+				"rev_last_min"
+			],
+			[
+				"pu",
+				"push_back\tvoid push_back(value_type &&__x)"
+			],
+			[
+				"bit",
+				"bitree\tbit"
+			],
+			[
+				"cur",
+				"cur_trie_ptr\ttrie * cur_trie_ptr"
+			],
+			[
+				"primes",
+				"primescnt\tmap<lli, lli> primescnt"
+			],
+			[
+				"res",
+				"resize\tvoid resize(size_type __new_size)"
+			],
+			[
+				"prioir",
+				"priority_queue\tpriority_queue<typename _Tp>(const _Compare &__x)"
+			],
+			[
+				"prio",
+				"priority_queue\tpriority_queue<typename _Tp>(const _Compare &__x)"
+			],
+			[
+				"prime",
+				"primes_v\tvi primes_v"
+			],
+			[
+				"all",
+				"all_of\tbool all_of(_InputIterator __first, _InputIterator __last, _Predicate __pred)"
+			],
+			[
+				"push",
+				"push_back\tvoid push_back(const value_type &__x)"
+			],
+			[
+				"max_e",
+				"max_element\t_ForwardIterator max_element(_ForwardIterator __first, _ForwardIterator __last, _Compare __comp)"
+			],
+			[
+				"cos",
+				"cost_gym"
+			],
+			[
+				"cost",
+				"cost_rest"
+			],
+			[
+				"cost_",
+				"cost_con"
+			],
+			[
+				"new_cos",
+				"new_cost_c\tlli new_cost_c"
+			],
+			[
+				"skipc",
+				"skip_check_y\tbool skip_check_y"
+			],
+			[
+				"max_num",
+				"max_num_y\tlli max_num_y"
+			],
+			[
+				"L",
+				"LLONG_MAX\tLLONG_MAX"
+			],
+			[
+				"LLONG_M",
+				"LLONG_MAX\tLLONG_MAX"
+			],
+			[
+				"accu",
+				"accumulate\t_Tp accumulate(_InputIterator __first, _InputIterator __last, _Tp __init)"
+			],
+			[
+				"make",
+				"make_tuple\ttuple<typename __decay_and_strip<_Elements>::__type...> make_tuple(_Elements &&__args...)"
+			],
+			[
+				"make_",
+				"make_tuple\ttuple<typename __decay_and_strip<_Elements>::__type...> make_tuple(_Elements &&__args...)"
+			],
+			[
+				"doen",
+				"done_idx\tlli done_idx"
+			],
+			[
+				"sum",
+				"sum_digits"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"rege",
+				"regex_search\tbool regex_search(const _Ch_type *__s, const basic_regex<_Ch_type, _Rx_traits> &__e)"
+			],
+			[
+				"str",
+				"string\tstring"
+			],
+			[
+				"mess",
+				"messgs\tvector<pair<string, set<string> > > messgs"
+			],
+			[
+				"s",
+				"second\tset<basic_string<char>, less<basic_string<char> >, allocator<basic_string<char> > > second"
+			],
+			[
+				"us",
+				"users\tvector<string> users"
+			],
+			[
+				"f",
+				"find\tsize_type find(const basic_string<char> &__str) const"
+			],
+			[
+				"e",
+				"end\tconst_iterator end() const"
+			],
+			[
+				"slice",
+				"slice_left\tlli slice_left"
+			],
+			[
+				"els",
+				"elms_diff_arr\tvi elms_diff_arr"
+			],
+			[
+				"elms",
+				"elms_diff_arr\tvi elms_diff_arr"
+			],
+			[
+				"multi",
+				"multiset\tmultiset<typename _Key, typename _Compare, typename _Alloc>"
+			],
+			[
+				"si",
+				"size\tsize_type size() const"
+			],
+			[
+				"barn",
+				"barnPositions"
+			],
+			[
+				"cowp",
+				"cowPositions"
+			],
+			[
+				"bar",
+				"barnPositions"
+			],
+			[
+				"cow",
+				"cowPositions"
+			],
+			[
+				"mem",
+				"memcpy\tvoid * memcpy(void *__restrict __dest, const void *__restrict __src, size_t __n)"
+			],
+			[
+				"siz",
+				"sizes"
+			],
+			[
+				"ins",
+				"insert\tstd::pair<iterator, bool> insert(value_type &&__x)"
+			],
+			[
+				"dfs",
+				"dfs_storeans\tvoid dfs_storeans(lli i, lli j, lli ans)"
+			],
+			[
+				"sie",
+				"sieve\tvector<lli> sieve(lli n)"
+			],
+			[
+				"stab",
+				"stable_sort\tvoid stable_sort(_RandomAccessIterator __first, _RandomAccessIterator __last, _Compare __comp)"
+			],
+			[
+				"icn",
+				"inc\t#include <…>"
+			],
+			[
+				"find",
+				"find\t_InputIterator find(_InputIterator __first, _InputIterator __last, const _Tp &__val)"
+			],
+			[
+				"swit",
+				"switchwin"
+			],
+			[
+				"mont",
+				"monty_chooses"
+			],
+			[
+				"cho",
+				"choices_with_monty"
+			],
+			[
+				"door",
+				"doorchosen"
+			],
+			[
+				"doo",
+				"doorchosen"
+			],
+			[
+				"win",
+				"winningdoor"
+			],
+			[
+				"gcd",
+				"gcd_without_xth"
+			],
+			[
+				"vect",
+				"vector\tvector<typename _Tp>"
+			],
+			[
+				"ci",
+				"cities_now\tset<lli> cities_now"
+			],
+			[
+				"citie",
+				"cities_later\tset<lli> cities_later"
+			],
+			[
+				"cit",
+				"cities_later\tset<lli> cities_later"
+			],
+			[
+				"x",
+				"x_changed\tmap<lli, bool> x_changed"
+			],
+			[
+				"lowe",
+				"lower_bound\t_ForwardIterator lower_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val, _Compare __comp)"
+			],
+			[
+				"lower",
+				"lower_bound\t_FIter lower_bound(_FIter, _FIter, const _Tp &)"
+			],
+			[
+				"sort",
+				"sort\tvoid sort(_RandomAccessIterator __first, _RandomAccessIterator __last, _Compare __comp)"
+			],
+			[
+				"vecto",
+				"vector\tvector<typename _Tp>"
+			],
+			[
+				"vec",
+				"vector\tvector<typename _Tp>"
+			],
+			[
+				"binar",
+				"binary_search\tbool binary_search(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val, _Compare __comp)"
+			],
+			[
+				"pb",
+				"push_back\tvoid push_back(const value_type &__x)"
+			],
+			[
+				"con",
+				"conf"
+			],
+			[
+				"em",
+				"empty\tbool empty() const"
+			],
+			[
+				"prett",
+				"pretty_print_array\tpretty_print::array_wrapper_n<T> pretty_print_array(const T *const a, size_t n)"
+			],
+			[
+				"is",
+				"istream\tistream"
+			],
+			[
+				"istream",
+				"istream_iterator\tistream_iterator<typename _Tp>"
+			],
+			[
+				"strin",
+				"stringstream\tstringstream"
+			],
+			[
+				"istr",
+				"istream_iterator\tistream_iterator<typename _Tp>"
+			],
+			[
+				"ist",
+				"istringstream\tistringstream"
+			],
+			[
+				"curm",
+				"cur_max\tint cur_max"
+			],
+			[
+				"cur_m",
+				"cur_min\tint cur_min"
+			],
+			[
+				"map",
+				"map\tmap<typename _Key, typename _Tp>"
+			],
+			[
+				"be",
+				"begin\titerator begin()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "temp.cpp",
+			"settings":
+			{
+				"buffer_size": 835,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testing.py",
+			"settings":
+			{
+				"buffer_size": 684,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "todo.md",
+			"settings":
+			{
+				"buffer_size": 293,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "in.txt",
+			"settings":
+			{
+				"buffer_size": 1,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "out.txt",
+			"settings":
+			{
+				"buffer_size": 34,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/custom.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/custom.sublime-build",
+					""
+				],
+				[
+					"Packages/User/custom.sublime-build",
+					"Run Python"
+				],
+				[
+					"Packages/User/custom.sublime-build",
+					"Run C++"
+				]
+			],
+			[
+				"Packages/User/custom.sublime-build",
+				"Run C++"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/custom.sublime-build",
+					""
+				],
+				[
+					"Packages/User/custom.sublime-build",
+					"Run Python"
+				],
+				[
+					"Packages/User/custom.sublime-build",
+					"Run C++"
+				]
+			],
+			[
+				"Packages/User/custom.sublime-build",
+				"Run Python"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/custom.sublime-build",
+					""
+				],
+				[
+					"Packages/User/custom.sublime-build",
+					"Run Python"
+				],
+				[
+					"Packages/User/custom.sublime-build",
+					"Run C++"
+				]
+			],
+			[
+				"Packages/User/custom.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ecc",
+				"EasyClangComplete: Settings"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"woe",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tasb",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/st0rmbring3r/Desktop/fml"
+	],
+	"file_history":
+	[
+		"/home/st0rmbring3r/Desktop/fml/testing.py",
+		"/home/st0rmbring3r/Desktop/fml/Makefile",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/custom.sublime-build",
+		"/home/st0rmbring3r/Desktop/fml/dp/1st.cpp",
+		"/home/st0rmbring3r/Desktop/fml/notes.txt",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/cpp.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/Default (Linux).sublime-keymap",
+		"/home/st0rmbring3r/Desktop/fml/todo.md",
+		"/home/st0rmbring3r/Desktop/fml/out.txt",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/dir.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/dsu.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/todo.txt",
+		"/home/st0rmbring3r/Desktop/fml/saved/dp.cpp",
+		"/home/st0rmbring3r/Desktop/fml/three_strings",
+		"/home/st0rmbring3r/Desktop/fml/in.txt",
+		"/home/st0rmbring3r/Desktop/fml/file.txt",
+		"/home/st0rmbring3r/Desktop/fml/temp.cpp",
+		"/home/st0rmbring3r/Desktop/fml/3d.cpp",
+		"/home/st0rmbring3r/Desktop/fml/2d.cpp",
+		"/home/st0rmbring3r/Desktop/cpal.html",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/modx.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/sieve.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/modx.cpp",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/testcase.sublime-snippet",
+		"/home/st0rmbring3r/.zsh_history",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/AutoFold.sublime-settings",
+		"/tmp/secret",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/fora.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/b.cpp",
+		"/home/st0rmbring3r/Desktop/p.py",
+		"/home/st0rmbring3r/Desktop/l000t/advent.asm.txt",
+		"/home/st0rmbring3r/Desktop/advent.asm",
+		"/home/st0rmbring3r/Desktop/l000t/adv.txt",
+		"/home/st0rmbring3r/Desktop/a0c1a.py",
+		"/home/st0rmbring3r/Desktop/5.cpp",
+		"/home/st0rmbring3r/Desktop/17531_a.cpp",
+		"/home/st0rmbring3r/Desktop/17531_d.cpp",
+		"/home/st0rmbring3r/Desktop/4.cpp",
+		"/home/st0rmbring3r/Desktop/3.cpp",
+		"/home/st0rmbring3r/Desktop/17531_b.cpp",
+		"/home/st0rmbring3r/Desktop/2.cpp",
+		"/home/st0rmbring3r/Desktop/1.cpp",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/Auto Fold/AutoFold.py",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/bit.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/cpp_simple.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_set/eeuclid.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/g_project/main.cpp",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/testcase.sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/cpp.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/reduction_wrong.cpp",
+		"/home/st0rmbring3r/Desktop/fml/reduction_flawed.cpp",
+		"/home/st0rmbring3r/Desktop/fml/strings.cpp",
+		"/home/st0rmbring3r/Desktop/fml/robo.cpp",
+		"/home/st0rmbring3r/Desktop/fml/reduction.cpp",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/cpp_simple.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/d.cpp",
+		"/home/st0rmbring3r/Desktop/fml/c.cpp",
+		"/home/st0rmbring3r/Desktop/fml/a.cpp",
+		"/home/st0rmbring3r/Desktop/fml/saved/cheatsheet.cpp",
+		"/home/st0rmbring3r/Desktop/fml/trie.cpp",
+		"/home/st0rmbring3r/Desktop/fml/old.cpp.cpp",
+		"/home/st0rmbring3r/Desktop/fml/2.cpp",
+		"/home/st0rmbring3r/Desktop/fml/prettyprint.hpp",
+		"/home/st0rmbring3r/Desktop/fml/tendsto.cpp",
+		"/home/st0rmbring3r/Desktop/fml/new.py",
+		"/home/st0rmbring3r/Desktop/fml/walls_B.cpp",
+		"/home/st0rmbring3r/Desktop/fml/s",
+		"/home/st0rmbring3r/Desktop/fml/ttt.cpp",
+		"/home/st0rmbring3r/Desktop/fml/hack.cpp",
+		"/home/st0rmbring3r/Desktop/fml/a.out",
+		"/home/st0rmbring3r/Desktop/fml/outfile",
+		"/home/st0rmbring3r/Desktop/fml/testfile",
+		"/home/st0rmbring3r/Desktop/fml/gen.py",
+		"/home/st0rmbring3r/Desktop/fml/prettyprint.hpp.gch",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/dsu.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/new.cpp",
+		"/home/st0rmbring3r/Desktop/fml/montyhall.py",
+		"/home/st0rmbring3r/Desktop/fml/old_way.cpp",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/sieve.sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/eeuclid.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/saved/8queens.py",
+		"/home/st0rmbring3r/Desktop/fml/py.py",
+		"/home/st0rmbring3r/Desktop/MegaChessatron/main.c",
+		"/home/st0rmbring3r/Desktop/MegaChessatron/main.",
+		"/home/st0rmbring3r/Desktop/MegaChessatron/ma",
+		"/home/st0rmbring3r/Desktop/fml/test.cpp",
+		"/home/st0rmbring3r/Desktop/fml/saved/README.md",
+		"/home/st0rmbring3r/Desktop/fml/saved/spoj_akbar.cpp",
+		"/home/st0rmbring3r/Desktop/fml/saved/graph_spoj_akbar.cpp",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/Snippets/printf-..-(printf).sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/C Standard Includes.sublime-completions",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/Snippets/030-for-int-loop-(fori).sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/Snippets/class-..-(class).sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/Snippets/do...while-loop-(do).sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/Snippets/forv.sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/Snippets/if-..-(if).sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/Snippets/std-map-(map).sublime-snippet",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/C++/Snippets/std-vector-(v).sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/check.cpp",
+		"/home/st0rmbring3r/Desktop/fml/saved/sieve.cpp.cpp",
+		"/home/st0rmbring3r/Desktop/fml/graph.cpp",
+		"/home/st0rmbring3r/Desktop/logicsim/abstraction.cpp",
+		"/home/st0rmbring3r/Desktop/logicsim/main.cpp",
+		"/home/st0rmbring3r/Desktop/fml/tle.py",
+		"/home/st0rmbring3r/Desktop/fml/area.cpp",
+		"/home/st0rmbring3r/Desktop/fml/z2.cpp",
+		"/home/st0rmbring3r/Desktop/fml/8queens.py",
+		"/home/st0rmbring3r/Desktop/hillffair-backend/app.py",
+		"/home/st0rmbring3r/Desktop/fml/input.txt",
+		"/home/st0rmbring3r/Desktop/fuck_this_shit/uva843.cpp",
+		"/home/st0rmbring3r/Desktop/fuck_this_shit/temp.cpp",
+		"/home/st0rmbring3r/Desktop/fuck_this_shit/theory/cheatsheet.cpp",
+		"/home/st0rmbring3r/Desktop/fuck_this_shit/cheatsheet.cpp",
+		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/fora.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fuck_this_shit/stl_cheatsheet.cpp",
+		"/home/st0rmbring3r/Desktop/fuck_this_shit/1.cpp",
+		"/home/st0rmbring3r/Desktop/aoc_1a.cpp",
+		"/home/st0rmbring3r/Desktop/input.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"max_def",
+			"\t",
+			"cout",
+			"lst",
+			"+ chosen_val_",
+			"chosen_val_",
+			"if",
+			"wt",
+			"chosen_val",
+			"chosen_wt_",
+			"chosen_val",
+			"+ chosen_wt",
+			"chosen_wt",
+			"chosen_wt +=",
+			")",
+			"mins",
+			"next_i_2",
+			"next_i_1",
+			"next",
+			" ",
+			"print",
+			" ",
+			"i",
+			"inp",
+			"z.",
+			"const ",
+			"a",
+			"a[",
+			"a",
+			"arr",
+			"fout",
+			"a",
+			"hash_value",
+			"int",
+			"complex<double>",
+			"int",
+			"\t\n",
+			"[",
+			"//",
+			"ss",
+			"x",
+			"sqrt",
+			"char",
+			"<",
+			"int64_t",
+			"std::",
+			"n",
+			"std::",
+			"int64_t",
+			"<",
+			"destroyed",
+			"node;",
+			"node",
+			"6",
+			"// ",
+			"perp2",
+			"D",
+			"C",
+			"perp",
+			"+",
+			"k",
+			"cin >> x >> y >> z;",
+			"z",
+			",",
+			"\t\tbreak;",
+			"x",
+			"moves",
+			"b",
+			"a",
+			"#include <bits/stdc++.h>",
+			"[i]",
+			"i",
+			"s",
+			" ",
+			"ans",
+			"1",
+			"a",
+			"count",
+			"i",
+			"QAQ[",
+			"[1",
+			"QA[",
+			"Q[",
+			"Q[i]",
+			"Q[",
+			"Q",
+			"if",
+			"scoremap",
+			"else {",
+			"n2",
+			"n1",
+			"2",
+			"x",
+			"advent",
+			"   ",
+			" ",
+			"--",
+			"\\n",
+			"\\W",
+			"ll",
+			"pb",
+			"ll ",
+			"ll",
+			"pb",
+			"ll",
+			"mod",
+			"if(i>=z) paths_",
+			"paths_",
+			"int",
+			"];\n",
+			"cout",
+			"paths_k",
+			"paths",
+			"1e6",
+			"ATe",
+			"thingy",
+			"temp",
+			"n",
+			"bin2dec",
+			"ans",
+			"9",
+			"dp_",
+			"dp_m",
+			"< ",
+			"min",
+			"tmp",
+			"return ans;",
+			"min"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"y",
+			"",
+			"j"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "temp.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "testing.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "todo.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "in.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "out.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.639598540146,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 130.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fml.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"to",
+				"todo.md"
+			],
+			[
+				"tes",
+				"testing.py"
+			],
+			[
+				"not",
+				"notes.txt"
+			],
+			[
+				"te",
+				"testing.py"
+			],
+			[
+				"o",
+				"out.txt"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"ma",
+				"Makefile"
+			],
+			[
+				"t",
+				"temp.cpp"
+			],
+			[
+				"te\t",
+				"temp.cpp"
+			],
+			[
+				"tem",
+				"temp.cpp"
+			],
+			[
+				"tme",
+				"temp.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/strawberry/str.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,9 @@
+[
+	{
+	    "keys": ["ctrl+l"],
+	    "command": "exec",
+	    "args": {
+	        "hide_phantoms_only": true
+	    }
+	},
+]

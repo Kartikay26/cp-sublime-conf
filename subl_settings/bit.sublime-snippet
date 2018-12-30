@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+
+const int max_N = ${1:1e6 + 10};
+struct bit {
+	int arr[max_N];
+	void update(int p, int x) {
+		for (;p < max_N; p += (p &-p)) arr[p] += x;
+	}
+	int query(int p) {
+		int ans = 0;
+		for (;p > 0; p -= (p & -p)) ans += arr[p];
+		return ans;
+	}
+	int query(int L, int R){return query(R) - query(L-1);}
+};
+$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bitree</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>
