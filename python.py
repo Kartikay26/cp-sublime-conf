@@ -9,15 +9,20 @@ from functools import *
 from random import *
 def getl(t=int): return [t(x) for x in input().split()]
 def get(t=int): return t(input())
+def debug(*x, **y): print("debug: ", *x, **y)
 alphabet = [chr(x) for x in range(ord('a'), ord('z')+1)]
 alnum = lambda x: ord(x) - ord('a')
 
 def main():
 	n = get()
 	s = input()
-	for i in range(n):
+	ans = 0
+	for i in range(n+1):
 		for j in range(i-1):
-			print(s[j:i], check(s[j:i]))
+			if check(s[j:i]):
+				debug(j,i,s[j:i])
+				ans += 1
+	print(ans)
 
 def check(s):
 	n = len(s)

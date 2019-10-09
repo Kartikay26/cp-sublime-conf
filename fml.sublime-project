@@ -18,6 +18,10 @@
 		{
 			"name": "Run C++ fast",
 			"shell_cmd": "make cpp-fast"
+		},
+		{
+			"name": "Test with checker.py",
+			"shell_cmd": "make brute"
 		}
 	]
 }
