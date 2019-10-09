@@ -43,7 +43,7 @@ alnum = lambda x: ord(x) - ord('a')
 
 def main():
 	old_stdout = sys.stdout
-	failing_tests = []
+	failing_tests = set()
 	print("Testing: ")
 	for i in range(N_tests):
 		# generate a test
@@ -63,7 +63,7 @@ def main():
 		B = "\n".join(line for line in B_lines if not line.startswith("debug"))
 
 		if not check_answer(A, B, hint):
-			failing_tests += [(test, hint, A, B)]
+			failing_tests.update([(test, hint, A, B)])
 			print("x",end="")
 		else:
 			print(".",end="")
@@ -72,10 +72,12 @@ def main():
 		sys.stdout.flush()
 	print("\n")
 
-	print(f"{N_tests - len(failing_tests)} / {N_tests} passed.\n")
+	failing_tests = sorted(failing_tests, key=lambda test: len(test[0]))
+
+	print(f"{N_tests - len(failing_tests)} / {N_tests} passed. [{(N_tests - len(failing_tests)) * 100 // N_tests} %]\n")
 	if len(failing_tests) > 0:
 		print("Failing tests:\n")
-		for i, (test, hint, A, B) in enumerate(sorted(set(failing_tests))):
+		for i, (test, hint, A, B) in enumerate(failing_tests):
 			if hint is not None:
 				print(f"Test #{i+1}:\n{test}\n(hint: {hint})\nOutput A:\t{A}\nOutput B:\t{B}")
 			else:
