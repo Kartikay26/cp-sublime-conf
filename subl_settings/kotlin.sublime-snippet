@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+// kartikay26
+
+private fun readLn() = readLine()!! // string line
+private fun readInt() = readLn().toInt() // single int
+private fun readStrings() = readLn().split(" ") // list of strings
+private fun readInts() = readStrings().map { it.toInt() } // list of ints
+
+fun main() {
+	var n = readInt()
+	$0
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>kotlin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

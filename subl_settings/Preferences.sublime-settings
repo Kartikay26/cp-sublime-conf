@@ -1,13 +1,9 @@
 {
-	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
-	"font_size": 10,
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"dart_sdk_path": "/home/st0rmbring3r/flutter",
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"ignored_words":
-	[
-		"Hitchhiker's"
 	],
 	"theme": "Adaptive.sublime-theme"
 }

@@ -4,5 +4,20 @@
 		{
 			"path": "."
 		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "Run Python",
+			"shell_cmd": "make python"
+		},
+		{
+			"name": "Run C++",
+			"shell_cmd": "make"
+		},
+		{
+			"name": "Run C++ fast",
+			"shell_cmd": "make cpp-fast"
+		}
 	]
 }

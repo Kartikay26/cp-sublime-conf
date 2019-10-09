@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+struct ms{
+	// better multiset with "erase one" operation and correct size
+	map<int, int> m; int num;
+	int size() { return num; }
+	int size_uniq() { return m.size(); }
+	void put(int x) { m[x]++; num++;}
+	void del(int x) { m[x]--; num--; if (!m[x]) m.erase(x); }
+};
+$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mset</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

@@ -443,19 +443,40 @@ namespace std
 
 #endif  // H_PRETTY_PRINT
 
-// stuff i put myself ... debug etc
+// #define debug(...) cout << "debug: " << #__VA_ARGS__ " = "; _dbg(__VA_ARGS__);
+#define debug(x...) print("debug: ", #x, "=", x)
 
-template<typename T>
-void _dbg(T last) {
-    std::cout << last << endl;
-}
-template<typename T, typename... Args>
-void _dbg(T first, Args... rest) {
-    std::cout << first << ", "; _dbg(rest...);
-}
-template<typename T> void _dbga(T* a, int n, std::string s){
-    std::cout << "debug: " << s << " = [";
-    while(n--){cout << *a++ << (n?", ":"");} cout << "]\n";
-}
+// void _print(){cout << endl;} void _prints(){}
+// template<typename T, typename... A> void _print(T x,A... r){cout << x << " ";_print(r...);}
+// template<typename T, typename... A> void _prints(T x,A... r){cout << x << " ";_prints(r...);}
 
-// end useless stuff
+// #define debug(x...) {_prints("dbg:\t"); _f(#x, x); _print();}
+
+// void _f(string name){
+
+// }
+// template<typename T, typename... A>
+// void _f(string name, T a, A... r){
+//     int x = name.find(',')+1;
+//     _prints(name.substr(0,x-1)+":", a, "\t");
+//     _f(name.substr(x), r...);
+// }
+
+template<typename T> string arr(T* a, int n){
+    ostringstream os;
+    os << "[";
+    while(n--){
+        os << *a++ << (n?", ":"");
+    }
+    os << "]";
+    return os.str();
+}
+template<typename T> string arr(T& a, int n, int s=0){
+    ostringstream os;
+    os << "[";
+    for (int i = s; i < n; ++i) {
+        os << a[i] << (i==n-1?"":", ");
+    }
+    os << "]";
+    return os.str();
+}

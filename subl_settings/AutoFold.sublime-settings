@@ -4,7 +4,7 @@
   // ?<= positive lookbehind must have fixed size
   "regexps": [ // regexps to auto-fold
     // Example: fold all css comments /* ... */
-    "(?<=.h>)(.|\n)*?pii;"
+    "(?<=.h>)(.|\n)*?cout\\.tie\\(0\\)"
   ],
 
   "extensions": [  // activate this plugin for file extensions:
@@ -12,5 +12,5 @@
   ],
 
   "runOnLoad": true, // auto-fold on load
-  "runOnSave": true // auto-fold on save
+  "runOnSave": true, // auto-fold on save
 }

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+vi factorise(int num){
+	vi ans;
+	for(int i = 2; i * i <= num; i++){
+		if(num % i == 0){
+			num /= i;
+			ans.push_back(i);
+			i--;
+		}
+	}
+	if(num > 1) ans.push_back(num);
+	return ans;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>factor</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

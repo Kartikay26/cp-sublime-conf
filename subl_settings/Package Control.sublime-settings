@@ -7,11 +7,16 @@
 	[
 		"1337 Color Scheme",
 		"Auto Fold",
+		"Dart",
 		"EasyClangComplete",
 		"EditorConfig",
 		"Github Tools",
 		"HexViewer",
+		"JSX",
+		"Kotlin",
 		"Package Control",
-		"PackageResourceViewer"
+		"PackageResourceViewer",
+		"Python 3",
+		"SublimePythonIDE"
 	]
 }
