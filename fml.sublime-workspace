@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"ran",
+				"randint\t(statement)"
+			],
+			[
+				"end",
+				"end\titerator end() const"
+			],
+			[
+				"sto",
+				"stdout\t(instance)"
+			],
+			[
+				"check",
+				"check_answer\t(function)"
+			],
+			[
+				"ou",
+				"out_lines\t(statement)"
+			],
+			[
+				"std",
+				"stdout\t(statement)"
+			],
+			[
+				"st",
+				"stdout\t(instance)"
+			],
+			[
+				"test",
+				"test_out\t(statement)"
+			],
+			[
+				"tes",
+				"tests\t(statement)"
+			],
+			[
+				"cehc",
+				"checkp\t(function)"
+			],
+			[
 				"ind",
 				"find\tsize_type find(char __c) const"
 			],
@@ -114,10 +154,6 @@
 			[
 				"max_",
 				"max_pow\tll max_pow"
-			],
-			[
-				"end",
-				"rend\treverse_iterator rend() const"
 			],
 			[
 				"be",
@@ -264,10 +300,6 @@
 				"mindiff\t(statement)"
 			],
 			[
-				"ran",
-				"randrange\t(statement)"
-			],
-			[
 				"def",
 				"defaultdict\t(class)"
 			],
@@ -322,10 +354,6 @@
 			[
 				"for",
 				"for\tFor Loop"
-			],
-			[
-				"test",
-				"testcase"
 			],
 			[
 				"dist",
@@ -486,34 +514,6 @@
 			[
 				"debg",
 				"debugg\tdebugg(arr, n, m)"
-			],
-			[
-				"scor",
-				"scoremap\tmap<string, ll> scoremap"
-			],
-			[
-				"paths",
-				"paths_k\tll [101] paths_k"
-			],
-			[
-				"upper",
-				"upper_bound\t_ForwardIterator upper_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val)"
-			],
-			[
-				"follow",
-				"following\tll * following"
-			],
-			[
-				"dp",
-				"dp_ptr_min\tll [1001] dp_ptr_min"
-			],
-			[
-				"dp_",
-				"dp_ptr_min\tll [1001] dp_ptr_min"
-			],
-			[
-				"rev",
-				"rev_last_min"
 			]
 		]
 	},
@@ -523,7 +523,33 @@
 			"file": "temp.cpp",
 			"settings":
 			{
-				"buffer_size": 1197,
+				"buffer_size": 1004,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "python.py",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "check.cpp",
+			"settings":
+			{
+				"buffer_size": 970,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "checker.py",
+			"settings":
+			{
+				"buffer_size": 2358,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -532,7 +558,7 @@
 			"file": "in.txt",
 			"settings":
 			{
-				"buffer_size": 10,
+				"buffer_size": 24,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -541,12 +567,12 @@
 			"file": "out.txt",
 			"settings":
 			{
-				"buffer_size": 74,
+				"buffer_size": 816,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Run C++",
+	"build_system": "Run Python",
 	"build_system_choices":
 	[
 		[
@@ -952,6 +978,118 @@
 					""
 				],
 				[
+					"Run C++ fast",
+					""
+				],
+				[
+					"Run Python",
+					""
+				],
+				[
+					"Test with checker.py",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Run C++",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run C++",
+					""
+				],
+				[
+					"Run C++ fast",
+					""
+				],
+				[
+					"Run Python",
+					""
+				],
+				[
+					"Test with checker.py",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Run C++",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run C++",
+					""
+				],
+				[
+					"Run C++ fast",
+					""
+				],
+				[
+					"Run Python",
+					""
+				],
+				[
+					"Test with checker.py",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Run Python",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run C++",
+					""
+				],
+				[
 					"Run Python",
 					""
 				],
@@ -1070,6 +1208,14 @@
 		"selected_items":
 		[
 			[
+				"ch",
+				"Changelog"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
 				"color",
 				"UI: Select Color Scheme"
 			],
@@ -1092,10 +1238,6 @@
 			[
 				"spac",
 				"Indentation: Convert to Spaces"
-			],
-			[
-				"w",
-				"Word Wrap: Toggle"
 			],
 			[
 				"c",
@@ -1263,16 +1405,20 @@
 	],
 	"file_history":
 	[
-		"/home/st0rmbring3r/Desktop/fml/Makefile",
-		"/home/st0rmbring3r/Desktop/fml/prettyprint.hpp",
 		"/home/st0rmbring3r/Desktop/fml/python.py",
+		"/home/st0rmbring3r/Desktop/fml/brute.cpp",
 		"/home/st0rmbring3r/Desktop/fml/temp.cpp",
+		"/home/st0rmbring3r/Desktop/fml/checker.py",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/checker.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/Makefile",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/testcase.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/fml.sublime-project",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/cpp.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/prettyprint.hpp",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/segtree.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/bit.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/pps",
 		"/home/st0rmbring3r/Desktop/fml/problems.json",
-		"/home/st0rmbring3r/Desktop/fml/subl_settings/testcase.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_settings/cpp.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/saved/brute.cpp",
 		"/home/st0rmbring3r/Desktop/blank_ntp/blank.html",
 		"/home/st0rmbring3r/.cache/.fr-y1ybBN/override_igoogle/manifest.json",
@@ -1282,7 +1428,6 @@
 		"/home/st0rmbring3r/Desktop/fml/b.cpp",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/mset.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/pyx.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/fml.sublime-project",
 		"/home/st0rmbring3r/Desktop/lor.txt",
 		"/home/st0rmbring3r/Desktop/fml/d.cpp",
 		"/home/st0rmbring3r/Desktop/fml/stressor.py",
@@ -1387,10 +1532,7 @@
 		"/home/st0rmbring3r/Desktop/fml/new.py",
 		"/home/st0rmbring3r/Desktop/fml/walls_B.cpp",
 		"/home/st0rmbring3r/Desktop/fml/s",
-		"/home/st0rmbring3r/Desktop/fml/ttt.cpp",
-		"/home/st0rmbring3r/Desktop/fml/hack.cpp",
-		"/home/st0rmbring3r/Desktop/fml/a.out",
-		"/home/st0rmbring3r/Desktop/fml/outfile"
+		"/home/st0rmbring3r/Desktop/fml/ttt.cpp"
 	],
 	"find":
 	{
@@ -1408,6 +1550,27 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"10000",
+			"1e9",
+			"1000",
+			"2e5",
+			"2001",
+			"1000",
+			"10",
+			"1000",
+			"100000",
+			"10",
+			"n",
+			");\n",
+			"+'a'",
+			"[c]++",
+			"c",
+			"]++;\n",
+			"e",
+			"print",
+			"A",
+			"out",
+			"i",
 			"3",
 			"0",
 			"int",
@@ -1514,28 +1677,7 @@
 			"[j]",
 			"i-1",
 			"i+1",
-			"i+1]",
-			"a[i] = x;",
-			"max_nines",
-			":\n",
-			"\u00031",
-			"n",
-			"<<",
-			",",
-			"op",
-			",",
-			"j < n",
-			"();\n",
-			",0",
-			"p",
-			"nCrModpLucas",
-			"p",
-			"}\n",
-			"''",
-			"rem",
-			" return;",
-			"count",
-			"TrieNode"
+			"i+1]"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1543,6 +1685,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"B",
 			"",
 			"{",
 			"\\n",
@@ -1570,15 +1713,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1197,
+						"buffer_size": 1004,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1184,
-								1184
+								988,
+								988
 							]
 						],
 						"settings":
@@ -1586,10 +1729,96 @@
 							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 260.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "python.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "check.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "checker.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1599,20 +1828,20 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 4,
 					"file": "in.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10,
+						"buffer_size": 24,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10,
-								10
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1633,12 +1862,12 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 5,
 					"file": "out.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 74,
+						"buffer_size": 816,
 						"regions":
 						{
 						},
@@ -1699,20 +1928,20 @@
 		"cols":
 		[
 			0.0,
-			0.540646494386,
+			0.56895369151,
 			1.0
 		],
 		"rows":
 		[
 			0.0,
-			0.5,
+			0.321650134739,
 			1.0
 		]
 	},
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 84.0
+		"height": 31.0
 	},
 	"output.find_results":
 	{
@@ -1730,7 +1959,7 @@
 	"project": "fml.sublime-project",
 	"replace":
 	{
-		"height": 84.0
+		"height": 71.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1739,6 +1968,38 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"chec",
+				"check.cpp"
+			],
+			[
+				"py",
+				"python.py"
+			],
+			[
+				"ch",
+				"subl_settings/checker.sublime-snippet"
+			],
+			[
+				"che",
+				"subl_settings/checker.sublime-snippet"
+			],
+			[
+				"test",
+				"subl_settings/testcase.sublime-snippet"
+			],
+			[
+				"sub",
+				"fml.sublime-project"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"cpp",
+				"subl_settings/cpp.sublime-snippet"
+			],
 			[
 				"mak",
 				"Makefile"
@@ -1752,10 +2013,6 @@
 				"prettyprint.hpp"
 			],
 			[
-				"py",
-				"python.py"
-			],
-			[
 				"bit",
 				"subl_settings/bit.sublime-snippet"
 			],
@@ -1766,10 +2023,6 @@
 			[
 				"tes",
 				"subl_settings/testcase.sublime-snippet"
-			],
-			[
-				"cpp",
-				"subl_settings/cpp.sublime-snippet"
 			],
 			[
 				"br",
@@ -1804,20 +2057,8 @@
 				"subl_settings/mset.sublime-snippet"
 			],
 			[
-				"make",
-				"Makefile"
-			],
-			[
-				"test",
-				"subl_settings/testcase.sublime-snippet"
-			],
-			[
 				"pyx",
 				"subl_settings/pyx.sublime-snippet"
-			],
-			[
-				"sub",
-				"fml.sublime-project"
 			],
 			[
 				"d.",
