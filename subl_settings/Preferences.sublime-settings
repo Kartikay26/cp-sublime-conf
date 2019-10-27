@@ -1,9 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
 	"dart_sdk_path": "/home/st0rmbring3r/flutter",
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"original_color_scheme": "Packages/User/1337 (Colorcoded) (SublimePythonIDE).tmTheme",
 	"theme": "Adaptive.sublime-theme"
 }

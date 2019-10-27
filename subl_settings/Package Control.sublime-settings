@@ -10,13 +10,17 @@
 		"Dart",
 		"EasyClangComplete",
 		"EditorConfig",
+		"FileIcons",
 		"Github Tools",
+		"gruvbox",
 		"HexViewer",
 		"JSX",
 		"Kotlin",
 		"Package Control",
 		"PackageResourceViewer",
 		"Python 3",
-		"SublimePythonIDE"
+		"SublimePythonIDE",
+		"Theme - Afterglow",
+		"Theme - Spacegray"
 	]
 }

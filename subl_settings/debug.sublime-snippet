@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+def debug(*x, **y):
+	print("debug:", *x, **y)
+
+def debugf(f):
+	def ff(*a, **k):
+		print(f.__name__, a, k)
+		ans = f(*a, **k)
+		print(f.__name__, a, k, "=", ans)
+		return ans
+	return ff
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>debug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

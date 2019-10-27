@@ -19,7 +19,7 @@ N_tests = 10
 
 def generate_test():
 	n = randint(1,5)
-	print(n)
+	$0print(n)
 	for i in range(n):
 		print(choice(['A','B']), end='')
 	print()
@@ -46,6 +46,7 @@ alnum = lambda x: ord(x) - ord('a')
 def main():
 	old_stdout = sys.stdout
 	failing_tests = set()
+	passed = 0
 	print("Testing: ")
 	for i in range(N_tests):
 		# generate a test
@@ -56,18 +57,20 @@ def main():
 		
 		# run both programs on the test input
 		A = run(programA.split(), input=test.encode(),
-				capture_output=True).stdout.decode().strip()
-		A_lines = A.splitlines()
-		A = "\n".join(line for line in A_lines if not line.startswith("debug"))
+				capture_output=True)
+		A_out = A.stdout.decode().strip()
+		A_lines = A_out.splitlines()
+		A_out = "\n".join(line for line in A_lines if not line.startswith("debug"))
 		B = run(programB.split(), input=test.encode(),
-				capture_output=True).stdout.decode().strip()
-		B_lines = B.splitlines()
-		B = "\n".join(line for line in B_lines if not line.startswith("debug"))
-
-		if not check_answer(A, B, hint):
-			failing_tests.update([(test, hint, A, B)])
+				capture_output=True)
+		B_out = B.stdout.decode().strip()
+		B_lines = B_out.splitlines()
+		B_out = "\n".join(line for line in B_lines if not line.startswith("debug"))
+		if not (A.returncode == 0 and B.returncode == 0 and check_answer(A_out, B_out, hint)):
+			failing_tests.update([(test, hint, A_out, B_out)])
 			print("x",end="")
 		else:
+			passed += 1
 			print(".",end="")
 		if i % 50 == 49:
 			print()
@@ -76,7 +79,7 @@ def main():
 
 	failing_tests = sorted(failing_tests, key=lambda test: len(test[0]))
 
-	print(f"{N_tests - len(failing_tests)} / {N_tests} passed. [{(N_tests - len(failing_tests)) * 100 // N_tests} %]\n")
+	print(f"{passed} / {N_tests} passed. [{passed * 100 // N_tests} %]\n")
 	if len(failing_tests) > 0:
 		print("Failing tests:\n")
 		for i, (test, hint, A, B) in enumerate(failing_tests):

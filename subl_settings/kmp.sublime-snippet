@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+vi prefix(string s){
+	int n = s.size();
+	vi p(n);
+	for (int i = 1; i < n; ++i) {
+		int c = i;
+		do {
+			c = p[c-1];
+			if(s[i] == s[c]){
+				p[i] = c+1;
+				break;
+			}
+		} while (c != 0);
+	}
+	return p;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>kmp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>
