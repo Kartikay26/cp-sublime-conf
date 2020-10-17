@@ -1,20 +1,30 @@
 <snippet>
 	<content><![CDATA[
-
-const int max_N = ${1:1e6 + 10};
-struct bit {
-	int arr[max_N];
-	void update(int p, int x) {
-		for (;p < max_N; p += (p &-p)) arr[p] += x;
+struct BIT {
+	// 1-indexed BIT. range 1 to n inclusive.
+	vector<int> arr;
+	BIT(int n) {
+		arr.resize(n+1);
 	}
-	int query(int p) {
-		int ans = 0;
-		for (;p > 0; p -= (p & -p)) ans += arr[p];
-		return ans;
+	void add(int x, int delta) {
+		assert(x > 0 && x < arr.size());
+		for (int u = x; u < arr.size(); u += u&-u)
+			arr[u] += delta;
 	}
-	int query(int L, int R){return query(R) - query(L-1);}
+	void inc(int x) { add(x, 1); }
+	int query(int r) {
+		assert(r > 0 && r < arr.size());
+		int a = 0;
+		for (int q = r; q > 0; q -= q&-q)
+			a += arr[q];
+		return a;
+	}
+	int query(int l, int r) {
+		assert(r > l && l > 0 && r < arr.size());
+		if (l == 1) return query(r);
+		return query(r) - query(l-1);
+	}
 };
-$0
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bitree</tabTrigger>

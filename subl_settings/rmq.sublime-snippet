@@ -1,0 +1,39 @@
+<snippet>
+	<content><![CDATA[
+class RMQ {
+	int floorLog2(int n){return (64 - __builtin_clzll(n) - 1);}
+public:
+    int n, maxK;
+    vector<vector<int>> rmq;
+    vector<vector<int>> idx;
+    RMQ(vi arr) { // construct RMQ table from array in O(n log n)
+        n = arr.size();
+        maxK = floorLog2(n) + 1;
+        rmq.assign(maxK, vi(n));
+        idx.assign(maxK, vi(n));
+        rmq[0] = arr;
+        for (int i = 0; i < n; i++) idx[0][i] = i;
+        for (int k = 1; k < maxK; k++) {
+            for (int i = 0; i < n; i++) {
+                if (i+(1<<(k-1)) < n) {
+                    rmq[k][i] = min(rmq[k-1][i], rmq[k-1][i+(1<<(k-1))]);
+                    idx[k][i] = rmq[k-1][i] <= rmq[k-1][i+(1<<(k-1))] ? idx[k-1][i] : idx[k-1][i+(1<<(k-1))];
+                }
+            }
+        }
+    }
+    pair<int, size_t> minq(int l, int r) { // returns value, index of first minimum in range in O(1)
+        assert(0 <= l and l <= r and r < n);
+        int k = floorLog2(r-l+1);
+        return {
+            min(rmq[k][l], rmq[k][r+1-(1<<k)]),
+            rmq[k][l] <= rmq[k][r+1-(1<<k)] ? idx[k][l] : idx[k][r+1-(1<<k)]
+        };
+    }
+};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rmq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

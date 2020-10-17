@@ -13,7 +13,7 @@
 # Write code here:
 
 programA = './a.out'
-programB = 'python3 python.py'
+programB = './check'
 
 N_tests = 10
 
@@ -60,12 +60,12 @@ def main():
 				capture_output=True)
 		A_out = A.stdout.decode().strip()
 		A_lines = A_out.splitlines()
-		A_out = "\n".join(line for line in A_lines if not line.startswith("debug"))
+		A_out = "\n".join(line for line in A_lines if not line.startswith("---"))
 		B = run(programB.split(), input=test.encode(),
 				capture_output=True)
 		B_out = B.stdout.decode().strip()
 		B_lines = B_out.splitlines()
-		B_out = "\n".join(line for line in B_lines if not line.startswith("debug"))
+		B_out = "\n".join(line for line in B_lines if not line.startswith("---"))
 		if not (A.returncode == 0 and B.returncode == 0 and check_answer(A_out, B_out, hint)):
 			failing_tests.update([(test, hint, A_out, B_out)])
 			print("x",end="")

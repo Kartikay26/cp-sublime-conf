@@ -3,7 +3,7 @@ N = 8
 def main():
 	initial = [''] * N
 	print("Solution to 8 queens problem: ")
-	print(find_config(initial, 0))	
+	print(find_config(initial, 0))
 
 def find_config(start, index):
 	if index == N:

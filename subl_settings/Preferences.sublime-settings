@@ -1,7 +1,7 @@
 {
-	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
+	"color_scheme": "Packages/User/1337 (SublimePythonIDE).tmTheme",
 	"dart_sdk_path": "/home/st0rmbring3r/flutter",
-	"font_size": 10,
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"Vintage"

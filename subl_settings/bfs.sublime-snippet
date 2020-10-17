@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+queue<int> q;
+set<int> vis;
+q.insert(start_node);
+while (!q.empty()) {
+    int n = q.top();
+    q.pop();
+    vis.insert(n);
+    for (auto m : adj[n]) {
+        if (!vis.count(m)){
+            q.insert(m);
+        }
+    }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>BFS</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>

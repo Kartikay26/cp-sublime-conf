@@ -4,7 +4,8 @@ class DSU {
 	vector<int> parent;
 	vector<int> sizes;
 	public:
-		DSU(int n):parent(n),sizes(n){
+		int nsets;
+		DSU(int n):parent(n),sizes(n),nsets(n){
 			for (int i = 0; i < n; ++i) {
 				parent[i] = i; sizes[i] = 1;
 			}
@@ -14,6 +15,7 @@ class DSU {
 			if(sizes[i]<sizes[j]) swap(i,j);
 			parent[i] = j;
 			sizes[j] += sizes[i];
+			nsets--;
 		}
 		int find(int i){
 			while(i != parent[i])

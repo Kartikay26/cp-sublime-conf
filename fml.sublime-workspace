@@ -4,12 +4,288 @@
 		"selected_items":
 		[
 			[
-				"en",
-				"end\titerator end()"
+				"max_",
+				"max_element\t_ForwardIterator max_element(_ForwardIterator __first, _ForwardIterator __last, _Compare __comp)"
+			],
+			[
+				"cp",
+				"cpp\tcpp"
+			],
+			[
+				"cpp",
+				"cpp\tcpp"
+			],
+			[
+				"eu",
+				"eeuclid\teeuclid"
+			],
+			[
+				"bit",
+				"bitree\tbit"
+			],
+			[
+				"f",
+				"fora\tfora"
+			],
+			[
+				"len",
+				"lengthOfLIS\t(function)"
+			],
+			[
+				"Len",
+				"lengthOfLIS\t(function)"
+			],
+			[
+				"begi",
+				"begin\tll begin"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"be",
+				"begin\titerator begin()"
+			],
+			[
+				"targe",
+				"targetLower\tint targetLower"
+			],
+			[
+				"c",
+				"countRangeSum\tint countRangeSum(vector<int> &nums, int lower, int upper)"
+			],
+			[
+				"su",
+				"sumRegion\tlong sumRegion(ll i, ll j)"
+			],
+			[
+				"read",
+				"readGraph\tvoid readGraph()"
+			],
+			[
+				"mul",
+				"multiset\tmultiset<typename _Key, typename _Compare, typename _Alloc>(initializer_list<value_type> __l, const allocator_type &__a)"
+			],
+			[
+				"LLO",
+				"LLONG_MIN\tLLONG_MIN"
+			],
+			[
+				"sum",
+				"sumRange"
+			],
+			[
+				"NumArray",
+				"NumArray\tNumArray(vector<ll> &nums)"
+			],
+			[
+				"res",
+				"resize\tvoid resize(size_type __new_size)"
+			],
+			[
+				"llong",
+				"LLONG_MAX\tLLONG_MAX"
+			],
+			[
+				"dis",
+				"distAB\t(lambda) distAB"
+			],
+			[
+				"stone",
+				"stone_aval\tvector<vi> stone_aval"
+			],
+			[
+				"emp",
+				"empty\tbool empty() const"
+			],
+			[
+				"rec",
+				"recipies\tvector<pair<ll, vi> > recipies"
+			],
+			[
+				"getl",
+				"getline\t__istream_type & getline(char_type *__s, streamsize __n)"
+			],
+			[
+				"pop",
+				"pop_front\tvoid pop_front()"
+			],
+			[
+				"m",
+				"minKnightMoves\tll minKnightMoves(ll x, ll y)"
+			],
+			[
+				"de",
+				"decodeString\tstring decodeString(string r)"
+			],
+			[
+				"cl",
+				"clear\tvoid clear()"
+			],
+			[
+				"cur",
+				"cur_sum\tll cur_sum"
+			],
+			[
+				"ca",
+				"combinationSum2\tvector<vector<ll> > combinationSum2(vector<ll> &c, ll t)"
+			],
+			[
+				"rev",
+				"rev_path\tvi rev_path"
+			],
+			[
+				"rever",
+				"reverse\tvoid reverse(_BidirectionalIterator __first, _BidirectionalIterator __last)"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"sie",
+				"sieve\tvoid sieve(ll n)"
+			],
+			[
+				"diff",
+				"diffidx\tll diffidx"
+			],
+			[
+				"bac",
+				"back\treference back()"
+			],
+			[
+				"ind",
+				"indices\tmap<ll, vi> indices"
+			],
+			[
+				"onl",
+				"onlyb\tvi onlyb"
+			],
+			[
+				"on",
+				"onlyb\tvi onlyb"
+			],
+			[
+				"multip",
+				"multimap\tmultimap<typename _Key, typename _Tp, typename _Compare, typename _Alloc>"
+			],
+			[
+				"si",
+				"size\tsize_type size() const"
+			],
+			[
+				"poin",
+				"points_by_x\tmap<ll, vector<ll> > points_by_x"
+			],
+			[
+				"point",
+				"points_by_x\tmap<ll, vector<ll> > points_by_x"
+			],
+			[
+				"re",
+				"removeStones\tll removeStones(vector<vector<ll> > &stones)"
 			],
 			[
 				"ins",
 				"insert\titerator insert(const_iterator __position, _InputIterator __first, _InputIterator __last)"
+			],
+			[
+				"nei",
+				"neighbouring_walls\t(function)"
+			],
+			[
+				"check",
+				"check_bounds\t(function)"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"po",
+				"powers_of_two\t(function)"
+			],
+			[
+				"alp",
+				"alph_new\t(statement)"
+			],
+			[
+				"alph",
+				"alphabet\t(statement)"
+			],
+			[
+				"un",
+				"unit\t(statement)"
+			],
+			[
+				"reac",
+				"reached\tll reached"
+			],
+			[
+				"rea",
+				"reachable\tvector<bool> reachable"
+			],
+			[
+				"pus",
+				"push_back\tvoid push_back(const value_type &__x)"
+			],
+			[
+				"max",
+				"max_len_idx\t(statement)"
+			],
+			[
+				"sta",
+				"start_index\t(statement)"
+			],
+			[
+				"lo",
+				"longest_palindrome_len\t(statement)"
+			],
+			[
+				"cou",
+				"count2\tvi count2"
+			],
+			[
+				"con",
+				"contiguous_ones"
+			],
+			[
+				"ns",
+				"nsets\tll nsets"
+			],
+			[
+				"upper",
+				"isupper\tbool isupper(_CharT __c, const locale &__loc)"
+			],
+			[
+				"er",
+				"erase\tsize_type erase(const key_type &__x)"
+			],
+			[
+				"rota",
+				"rotated\tint [3][3] rotated"
+			],
+			[
+				"in",
+				"insert\tstd::pair<iterator, bool> insert(const value_type &__x)"
+			],
+			[
+				"dsu",
+				"DSU\tDSU(ll n)"
+			],
+			[
+				"test",
+				"testcase\tbool testcase(ll t)"
+			],
+			[
+				"pres",
+				"present_cnt\tll present_cnt"
+			],
+			[
+				"en",
+				"end\titerator end()"
 			],
 			[
 				"aces",
@@ -20,20 +296,8 @@
 				"import\t(keyword)"
 			],
 			[
-				"re",
-				"return\treturn expression"
-			],
-			[
-				"beg",
-				"begin\titerator begin() const"
-			],
-			[
 				"trans",
 				"transform\t_OutputIterator transform(_InputIterator1 __first1, _InputIterator1 __last1, _InputIterator2 __first2, _OutputIterator __result, _BinaryOperation __binary_op)"
-			],
-			[
-				"max",
-				"max\tconst _Tp & max(const _Tp &, const _Tp &, _Compare)"
 			],
 			[
 				"min",
@@ -60,10 +324,6 @@
 				"all_points\t(statement)"
 			],
 			[
-				"in",
-				"insert\titerator insert(const_iterator __position, _InputIterator __first, _InputIterator __last)"
-			],
-			[
 				"emplace",
 				"emplace_back\treference emplace_back(_Args &&__args...)"
 			],
@@ -80,10 +340,6 @@
 				"size\tsize_type size() const"
 			],
 			[
-				"bit",
-				"bitset\tbitset<size_t _Nb>"
-			],
-			[
 				"ran",
 				"randint\t(statement)"
 			],
@@ -94,10 +350,6 @@
 			[
 				"sto",
 				"stdout\t(instance)"
-			],
-			[
-				"check",
-				"check_answer\t(function)"
 			],
 			[
 				"ou",
@@ -112,20 +364,12 @@
 				"stdout\t(instance)"
 			],
 			[
-				"test",
-				"test_out\t(statement)"
-			],
-			[
 				"tes",
 				"tests\t(statement)"
 			],
 			[
 				"cehc",
 				"checkp\t(function)"
-			],
-			[
-				"ind",
-				"find\tsize_type find(char __c) const"
 			],
 			[
 				"tyep",
@@ -142,10 +386,6 @@
 			[
 				"ed",
 				"edu_problems\t(statement)"
-			],
-			[
-				"con",
-				"contestId"
 			],
 			[
 				"conte",
@@ -176,10 +416,6 @@
 				"get\tNode get(ll p)"
 			],
 			[
-				"m",
-				"m\tmap<char, bool> m"
-			],
-			[
 				"ge",
 				"get\tNode get(ll ql, ll qr)"
 			],
@@ -200,32 +436,12 @@
 				"erase\titerator erase(const_iterator __position)"
 			],
 			[
-				"pop",
-				"pop_front\tvoid pop_front()"
-			],
-			[
-				"pus",
-				"push_front\tvoid push_front(const value_type &__x)"
-			],
-			[
 				"type",
 				"type_info\ttype_info"
 			],
 			[
-				"er",
-				"erase\titerator std::map<long long, long long, less<long long>, allocator<pair<const long long, long long> > >::erase(const_iterator __position)"
-			],
-			[
 				"odd",
 				"odd_x_counts\tll odd_x_counts"
-			],
-			[
-				"max_",
-				"max_pow\tll max_pow"
-			],
-			[
-				"be",
-				"begin\titerator begin() const"
 			],
 			[
 				"accu",
@@ -242,10 +458,6 @@
 			[
 				"Trie",
 				"TrieNode\tTrieNode"
-			],
-			[
-				"si",
-				"size\tsize_type size() const"
 			],
 			[
 				"j",
@@ -292,10 +504,6 @@
 				"grid_ys\t(statement)"
 			],
 			[
-				"dis",
-				"distances\tmap<ll, set<ll> > distances"
-			],
-			[
 				"hap",
 				"happen_3\t(statement)"
 			],
@@ -306,214 +514,6 @@
 			[
 				"primes",
 				"primes_s"
-			],
-			[
-				"pyx",
-				"pyx\tpyx_test"
-			],
-			[
-				"colo",
-				"colors_unused"
-			],
-			[
-				"ea",
-				"erase\tsize_type erase(const key_type &__x)"
-			],
-			[
-				"color",
-				"colors_unused\tset<ll> colors_unused"
-			],
-			[
-				"ca",
-				"chain\t(statement)"
-			],
-			[
-				"swa",
-				"swapped\t(statement)"
-			],
-			[
-				"swap",
-				"swap_internal\t(function)"
-			],
-			[
-				"read",
-				"readInts"
-			],
-			[
-				"rea",
-				"readInts"
-			],
-			[
-				"fin",
-				"find_min_subs\t(function)"
-			],
-			[
-				"sele",
-				"selected_l\t(statement)"
-			],
-			[
-				"iter",
-				"itertools\t(module)"
-			],
-			[
-				"def",
-				"defaultdict\t(class)"
-			],
-			[
-				"if",
-				"ifstream\tifstream"
-			],
-			[
-				"null",
-				"NULL\tNULL"
-			],
-			[
-				"cpp",
-				"cpp\tcpp"
-			],
-			[
-				"degu",
-				"debuga\tdebuga(arr, n)"
-			],
-			[
-				"true",
-				"true_type\ttrue_type"
-			],
-			[
-				"mi",
-				"min_possible_sum_current"
-			],
-			[
-				"sum",
-				"sum_gp"
-			],
-			[
-				"remain",
-				"remaining\tll remaining"
-			],
-			[
-				"maxlen",
-				"maxlen_R\tll maxlen_R"
-			],
-			[
-				"maxle",
-				"maxlen_R\tll maxlen_R"
-			],
-			[
-				"inc",
-				"incnum\tset<ll> incnum"
-			],
-			[
-				"dec",
-				"decnum\tset<ll> decnum"
-			],
-			[
-				"for",
-				"for\tFor Loop"
-			],
-			[
-				"dist",
-				"dist_rem\tll dist_rem"
-			],
-			[
-				"cn",
-				"cn\tmultiset<ll> [101] cn"
-			],
-			[
-				"sahs",
-				"sasha_p\tll sasha_p"
-			],
-			[
-				"sash",
-				"sasha_d\tll sasha_d"
-			],
-			[
-				"dima",
-				"dima_d\tll dima_d"
-			],
-			[
-				"sas",
-				"sasha_d\tll sasha_d"
-			],
-			[
-				"x",
-				"x1\tll x1"
-			],
-			[
-				"fir",
-				"first_uneq\tll first_uneq"
-			],
-			[
-				"dbu",
-				"debuga\tdebuga(arr, n)"
-			],
-			[
-				"emp",
-				"empty\tbool empty() const"
-			],
-			[
-				"r",
-				"rbegin\treverse_iterator rbegin() const"
-			],
-			[
-				"prev",
-				"prev_num\tll prev_num"
-			],
-			[
-				"cou",
-				"countmod0\tll countmod0(ll l, ll r)"
-			],
-			[
-				"ans",
-				"ans_num\tll ans_num"
-			],
-			[
-				"tota",
-				"totalorderf64\tint totalorderf64(_Float64 __x, _Float64 __y)"
-			],
-			[
-				"tabs",
-				"tabs_E"
-			],
-			[
-				"tab",
-				"tabs_E"
-			],
-			[
-				"ma",
-				"max_def"
-			],
-			[
-				"wt",
-				"wt_allowed"
-			],
-			[
-				"p",
-				"prev_val"
-			],
-			[
-				"ch",
-				"chosen_val"
-			],
-			[
-				"pre",
-				"prev_wt"
-			],
-			[
-				"chos",
-				"chosen_val"
-			],
-			[
-				"c",
-				"chosen_wt"
-			],
-			[
-				"vla",
-				"values"
-			],
-			[
-				"ss",
-				"sst_2"
 			]
 		]
 	},
@@ -523,7 +523,25 @@
 			"file": "temp.cpp",
 			"settings":
 			{
-				"buffer_size": 1177,
+				"buffer_size": 1399,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "check.cpp",
+			"settings":
+			{
+				"buffer_size": 1354,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "checker.py",
+			"settings":
+			{
+				"buffer_size": 2407,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -533,16 +551,6 @@
 			"settings":
 			{
 				"buffer_size": 405,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "checker.py",
-			"settings":
-			{
-				"buffer_size": 2438,
-				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -550,7 +558,7 @@
 			"file": "in.txt",
 			"settings":
 			{
-				"buffer_size": 24,
+				"buffer_size": 14,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -559,12 +567,13 @@
 			"file": "out.txt",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 207,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Run C++",
+	"build_system": "Test with checker.py",
 	"build_system_choices":
 	[
 		[
@@ -1071,7 +1080,7 @@
 				]
 			],
 			[
-				"Run Python",
+				"Test with checker.py",
 				""
 			]
 		],
@@ -1200,20 +1209,156 @@
 		"selected_items":
 		[
 			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"ternus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"bito",
+				"Snippet: bitop"
+			],
+			[
+				"sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"test",
+				"Snippet: testcase"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
 				"w",
 				"Word Wrap: Toggle"
 			],
 			[
-				"ca",
-				"Build: Cancel"
+				"ecc",
+				"ECC: Settings"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wow",
+				"Word Wrap: Toggle"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
 			],
 			[
 				"close",
 				"Project: Close"
 			],
 			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
 				"col",
 				"UI: Select Color Scheme"
+			],
+			[
+				"we",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"c",
+				"Build: Cancel"
+			],
+			[
+				"ca",
+				"Build: Cancel"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"so",
+				"Sort Lines"
 			],
 			[
 				"men",
@@ -1224,16 +1369,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"colo",
-				"UI: Select Color Scheme"
-			],
-			[
 				"in",
 				"Package Control: Install Package"
-			],
-			[
-				"color",
-				"UI: Select Color Scheme"
 			],
 			[
 				"rem",
@@ -1248,10 +1385,6 @@
 				"Build With: Make"
 			],
 			[
-				"c",
-				"Build: Cancel"
-			],
-			[
 				"pyx",
 				"Snippet: pyx"
 			],
@@ -1260,20 +1393,8 @@
 				"Changelog"
 			],
 			[
-				"sort",
-				"Sort Lines"
-			],
-			[
-				"wo",
-				"Word Wrap: Toggle"
-			],
-			[
 				"tabs",
 				"Indentation: Convert to Tabs"
-			],
-			[
-				"spac",
-				"Indentation: Convert to Spaces"
 			],
 			[
 				"list",
@@ -1292,16 +1413,8 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"space",
-				"Indentation: Convert to Spaces"
-			],
-			[
 				"xml",
 				"Set Syntax: XML"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"py",
@@ -1312,28 +1425,12 @@
 				"Build With: Make"
 			],
 			[
-				"spa",
-				"Indentation: Convert to Spaces"
-			],
-			[
-				"spaces",
-				"Indentation: Convert to Spaces"
-			],
-			[
 				"tit",
 				"Convert Case: Title Case"
 			],
 			[
 				"title",
 				"Convert Case: Title Case"
-			],
-			[
-				"can",
-				"Build: Cancel"
-			],
-			[
-				"wor",
-				"Word Wrap: Toggle"
 			],
 			[
 				"python",
@@ -1348,18 +1445,6 @@
 				"Set Syntax: Markdown"
 			],
 			[
-				"ecc",
-				"EasyClangComplete: Settings"
-			],
-			[
-				"clo",
-				"Project: Close"
-			],
-			[
-				"clos",
-				"Project: Close"
-			],
-			[
 				"low",
 				"Convert Case: Lower Case"
 			],
@@ -1370,10 +1455,6 @@
 			[
 				"hex",
 				"HexViewer: Toggle Hex View"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
 			],
 			[
 				"woe",
@@ -1413,46 +1494,103 @@
 	},
 	"expanded_folders":
 	[
-		"/home/st0rmbring3r/Desktop/fml"
+		"/home/st0rmbring3r/Desktop/fml",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings"
 	],
 	"file_history":
 	[
+		"/home/st0rmbring3r/Desktop/fml/prettyprint.hpp",
 		"/home/st0rmbring3r/Desktop/fml/temp.cpp",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/dfs.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/AutoFold.sublime-settings",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/ycomb.sublime-snippet",
+		"/home/st0rmbring3r/miniconda3/lib/python3.7/random.py",
 		"/home/st0rmbring3r/Desktop/fml/python.py",
-		"/home/st0rmbring3r/.bin/showTodos.py",
+		"/home/st0rmbring3r/Desktop/fml/checker.py",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/testcase.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/cpp.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_settings/AutoFold.sublime-settings",
-		"/home/st0rmbring3r/Desktop/fml/prettyprint.hpp",
+		"/home/st0rmbring3r/Desktop/fml/fml.sublime-project",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/checker.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/check.cpp",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/getv.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/gets.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/get.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/Makefile",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/bitop.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/rmq.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/bfs.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/trie.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/segtree.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/pbds.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/1.cpp",
+		"/home/st0rmbring3r/Desktop/fml/2.cpp",
+		"/home/st0rmbring3r/Desktop/fml/in.txt",
+		"/home/st0rmbring3r/Desktop/fml/last.cpp",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/bit.sublime-snippet",
+		"/usr/include/math.h",
+		"/home/st0rmbring3r/Desktop/result.json",
+		"/home/st0rmbring3r/Desktop/newwrite.cpp",
+		"/home/st0rmbring3r/newreadme.md",
+		"/home/st0rmbring3r/Desktop/libmscore.cpp",
+		"/home/st0rmbring3r/Desktop/B-Plus-Tree/remove.cpp",
+		"/home/st0rmbring3r/Desktop/MuseScore/mtest/libmscore/all_elements/tst_scanElements.cpp",
+		"/home/st0rmbring3r/Desktop/oh-my-game/main.cpp",
+		"/home/st0rmbring3r/Desktop/16_Games/10 Bejeweled/main.cpp",
+		"/home/st0rmbring3r/Desktop/projects/vid_filter/package.json",
+		"/home/st0rmbring3r/Desktop/projects/vid_filter_source/main.js",
+		"/home/st0rmbring3r/Desktop/Telegram Desktop/ChatExport_30_06_2020/result.json",
+		"/home/st0rmbring3r/Desktop/MuseScore/libmscore/scoretree.cpp",
+		"/home/st0rmbring3r/Desktop/MuseScore/mscore/scoreitemmodel.cpp",
+		"/home/st0rmbring3r/Desktop/MuseScore/libmscore/accidental.cpp",
+		"/home/st0rmbring3r/Desktop/stuff.notes",
+		"/home/st0rmbring3r/Desktop/MuseScore/logfile.txt",
+		"/home/st0rmbring3r/Desktop/fml/out.txt",
+		"/home/st0rmbring3r/Desktop/GSoC_stuff_new/Fig2.svg",
+		"/home/st0rmbring3r/Desktop/Main.svg",
+		"/home/st0rmbring3r/imp_file.txt",
+		"/home/st0rmbring3r/Desktop/fml/old.py",
+		"/home/st0rmbring3r/Desktop/fml/saved/brute.cpp",
+		"/home/st0rmbring3r/Desktop/snakelib/circuits.cpp",
+		"/home/st0rmbring3r/Desktop/fml/store.cpp",
+		"/home/st0rmbring3r/Desktop/fml/code2.py",
+		"/home/st0rmbring3r/Desktop/fml/code1.py",
+		"/home/st0rmbring3r/Desktop/fml/euler/1b.cpp",
+		"/home/st0rmbring3r/Desktop/Welcome to Odoo - Be a challenger_files/challenge.js",
+		"/home/st0rmbring3r/Desktop/fml/code_1.cpp",
+		"/home/st0rmbring3r/Desktop/fml/py1.py",
+		"/home/st0rmbring3r/Desktop/fml/py2.py",
+		"/home/st0rmbring3r/Desktop/Lowes/client/src/index.js",
+		"/home/st0rmbring3r/Documents/college_stuff/IISER MOHALI FACULTY LIST",
+		"/tmp/.fr-6Zkbhy/figure1_elos.json",
+		"/home/st0rmbring3r/Desktop/VaultDoor3.java",
+		"/home/st0rmbring3r/Desktop/VaultDoor1.java",
+		"/home/st0rmbring3r/Desktop/VaultDoorTraining.java",
+		"/home/st0rmbring3r/Desktop/garden.txt",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/dsu.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/t.cpp",
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/cpp_simple.sublime-snippet",
+		"/home/st0rmbring3r/Desktop/fml/a.cpp",
+		"/home/st0rmbring3r/Desktop/a.p",
+		"/home/st0rmbring3r/TODO.md",
+		"/home/st0rmbring3r/.bin/showTodos.py",
 		"/home/st0rmbring3r/Desktop/fml/saved.cpp",
 		"/home/st0rmbring3r/Desktop/fml/file.txt",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/kmp.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/in.txt",
 		"/home/st0rmbring3r/Desktop/fml/temp.cpp.cpp",
 		"/home/st0rmbring3r/Desktop/mext/manifest.json",
-		"/home/st0rmbring3r/Desktop/fml/checker.py",
-		"/home/st0rmbring3r/Desktop/fml/subl_settings/checker.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/check.cpp",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/debug.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/pyx.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/brute.cpp",
-		"/home/st0rmbring3r/Desktop/fml/Makefile",
-		"/home/st0rmbring3r/Desktop/fml/fml.sublime-project",
-		"/home/st0rmbring3r/Desktop/fml/subl_settings/segtree.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_settings/bit.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/pps",
 		"/home/st0rmbring3r/Desktop/fml/problems.json",
-		"/home/st0rmbring3r/Desktop/fml/saved/brute.cpp",
 		"/home/st0rmbring3r/Desktop/blank_ntp/blank.html",
 		"/home/st0rmbring3r/.cache/.fr-y1ybBN/override_igoogle/manifest.json",
 		"/home/st0rmbring3r/.cache/.fr-rO8JQl/override_igoogle/redirect.html",
-		"/home/st0rmbring3r/Desktop/fml/out.txt",
 		"/home/st0rmbring3r/Desktop/fml/b.cpp",
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/mset.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/lor.txt",
 		"/home/st0rmbring3r/Desktop/fml/d.cpp",
 		"/home/st0rmbring3r/Desktop/fml/stressor.py",
-		"/home/st0rmbring3r/Desktop/fml/subl_settings/cpp_simple.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/fml/heu.txt",
 		"/home/st0rmbring3r/Desktop/fml/v.cpp",
 		"/home/st0rmbring3r/Desktop/youaregay",
@@ -1488,67 +1626,11 @@
 		"/home/st0rmbring3r/Desktop/fml/subl_settings/fora.sublime-snippet",
 		"/home/st0rmbring3r/Desktop/temp.cpp",
 		"/home/st0rmbring3r/Desktop/fml/saved/2d.cpp",
-		"/home/st0rmbring3r/Desktop/fml/subl_settings/custom.sublime-build",
-		"/home/st0rmbring3r/Desktop/fml/todo.md",
-		"/home/st0rmbring3r/Desktop/fml/stuff_temp.md",
-		"/home/st0rmbring3r/Desktop/fml/saved/lis.py",
-		"/home/st0rmbring3r/Desktop/fml/README.md",
-		"/home/st0rmbring3r/Desktop/fml/.gitignore",
-		"/home/st0rmbring3r/Desktop/fml/notes.txt",
-		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/custom.sublime-build",
-		"/home/st0rmbring3r/Desktop/fml/dp/1st.cpp",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/cpp.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/Default (Linux).sublime-keymap",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/dir.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/dsu.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/todo.txt",
-		"/home/st0rmbring3r/Desktop/fml/saved/dp.cpp",
-		"/home/st0rmbring3r/Desktop/fml/three_strings",
-		"/home/st0rmbring3r/Desktop/fml/3d.cpp",
-		"/home/st0rmbring3r/Desktop/fml/2d.cpp",
-		"/home/st0rmbring3r/Desktop/cpal.html",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/modx.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/sieve.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/modx.cpp",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/testcase.sublime-snippet",
-		"/home/st0rmbring3r/.zsh_history",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/AutoFold.sublime-settings",
-		"/tmp/secret",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/fora.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/p.py",
-		"/home/st0rmbring3r/Desktop/l000t/advent.asm.txt",
-		"/home/st0rmbring3r/Desktop/advent.asm",
-		"/home/st0rmbring3r/Desktop/l000t/adv.txt",
-		"/home/st0rmbring3r/Desktop/a0c1a.py",
-		"/home/st0rmbring3r/Desktop/5.cpp",
-		"/home/st0rmbring3r/Desktop/17531_a.cpp",
-		"/home/st0rmbring3r/Desktop/17531_d.cpp",
-		"/home/st0rmbring3r/Desktop/4.cpp",
-		"/home/st0rmbring3r/Desktop/3.cpp",
-		"/home/st0rmbring3r/Desktop/17531_b.cpp",
-		"/home/st0rmbring3r/Desktop/2.cpp",
-		"/home/st0rmbring3r/Desktop/1.cpp",
-		"/home/st0rmbring3r/.config/sublime-text-3/Packages/Auto Fold/AutoFold.py",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/bit.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/cpp_simple.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/subl_set/eeuclid.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/g_project/main.cpp",
-		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/testcase.sublime-snippet",
-		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/cpp.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/reduction_wrong.cpp",
-		"/home/st0rmbring3r/Desktop/fml/reduction_flawed.cpp",
-		"/home/st0rmbring3r/Desktop/fml/strings.cpp",
-		"/home/st0rmbring3r/Desktop/fml/robo.cpp",
-		"/home/st0rmbring3r/Desktop/fml/reduction.cpp",
-		"/home/st0rmbring3r/.config/sublime-text-3/Packages/User/cpp_simple.sublime-snippet",
-		"/home/st0rmbring3r/Desktop/fml/a.cpp",
-		"/home/st0rmbring3r/Desktop/fml/saved/cheatsheet.cpp",
-		"/home/st0rmbring3r/Desktop/fml/trie.cpp",
-		"/home/st0rmbring3r/Desktop/fml/old.cpp.cpp"
+		"/home/st0rmbring3r/Desktop/fml/subl_settings/custom.sublime-build"
 	],
 	"find":
 	{
-		"height": 44.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -1562,141 +1644,144 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"time_worker",
+			"start",
+			"vi",
+			"+ n",
+			"prints",
 			"i",
-			"s ==",
-			"i",
-			"\"",
-			"\t\n",
-			"N",
-			"n",
-			"aces_done",
-			"aces_already",
-			"card",
-			"aces_already",
-			"a",
-			"card_num",
-			"0",
-			"push",
-			");\n",
-			"int(2e14)",
-			"ass[i] = l;",
-			" r);",
-			".e",
-			"l.",
-			"push_back",
-			"'#'",
-			"n",
-			");\n",
-			":",
-			"p[i-1]",
-			"h",
-			"i",
-			"x",
-			".s",
-			"x.",
-			"for (int j = 0; j < x.size(); ++j) {\n\t\t\tint z = a[j];\n\t\t\tif(z & (1 << i)){\n\t\t\t\tx.push_back(j);\n\t\t\t}\n\t\t}",
-			"i",
-			"i);",
-			"i)",
-			"z);",
-			"x.push_back(z);",
-			"z",
-			"[]",
-			"trie[p][c-'a']",
-			"end",
-			"10",
-			"th",
-			";\n",
-			"print",
-			"+",
-			"i",
-			"_rec",
-			"lld",
-			"first",
-			"count",
+			".size()",
+			"set<int>",
+			"l",
+			"s",
 			"debug",
-			"';\n",
-			"\t\td +=",
-			" even",
-			"if (i < even.size()){\n\t\td += even[i]\n\t}",
-			"b",
-			"remaining_points",
-			"points",
-			"idx",
-			"v[i",
-			"v[i]",
-			"g[x]",
-			"to_leaves_of_children",
-			"to_leaves",
-			"leave",
-			"minc",
-			"cost",
-			"i",
-			"3",
-			"A",
-			"),",
-			"b",
-			"a",
-			"1001",
-			"100",
-			"101",
-			"1e5",
-			"1",
-			"i",
-			"3",
-			"24",
-			"i",
-			"5",
-			"i",
-			"n",
-			"k",
-			"mx",
-			"+1",
-			"n",
-			"edges",
-			"i",
-			"10000",
-			"1e9",
-			"1000",
-			"2e5",
-			"2001",
-			"1000",
-			"10",
-			"1000",
-			"100000",
-			"10",
-			"n",
-			");\n",
-			"+'a'",
-			"[c]++",
-			"c",
-			"]++;\n",
-			"e",
-			"print",
-			"A",
-			"out",
-			"i",
-			"3",
-			"0",
+			"arr",
+			"result",
+			"isComposite",
+			"ll",
 			"int",
-			"debug",
-			"data.size()",
-			"int n",
-			"SegTree",
-			"x",
-			"Node",
-			"k",
-			"T",
+			"b",
+			"a",
+			"5",
+			"    \n",
+			"i",
+			"exp_val",
+			"int",
+			"();\n",
+			"get",
+			"\n    ",
+			");\n",
+			"push_back",
+			"min(",
+			"<= rmq[",
+			"<= rmq[k-1][i+(1<<(k",
+			"<=",
+			"7",
+			"6",
+			"100",
+			"        \n",
+			"a",
+			"tour.push_back(d[x]);",
+			"tour.push_back(x);",
+			"head",
+			"class",
+			"}",
+			"{",
+			"a[i].firs",
+			"].first",
+			"_p",
+			"ansurn",
+			"ret",
+			"v",
+			"walked",
+			"mp",
+			"cCount",
+			"bCount",
+			"aCount",
+			"TreeNode",
+			"4",
+			"push_back",
+			"vector",
+			"7e5",
+			"str",
 			"1",
-			"0",
-			"x"
+			"targetlowe",
+			"targetUpper",
+			"sumRegion",
+			" =",
+			"= 0",
+			"j",
+			"update",
+			"bit",
+			";\n",
+			"1",
+			"max_score",
+			"req_coal",
+			"/ s",
+			"i",
+			"- nb",
+			"nb",
+			"+",
+			"*it",
+			"bterms.",
+			"i",
+			"bterms.erase(it);",
+			"bterms.erase(it);\n\t\t\t\treturn *it;",
+			"n",
+			"printb",
+			"k",
+			"deque<int> q;\n\t\tint dist[n+1];\n\t\tmemset(dist, 0, sizeof(dist));\n\t\tq.push_back(a);\n\t\tdist[a] = 0;\n\t\twhile (!q.empty()) {\n\t\t\tint x = q.front();\n\t\t\tq.pop_front();\n\t\t\tfor(auto y : adj[x]){\n\t\t\t\tif(dist[y]) continue;\n\t\t\t\tq.push_back(y);\n\t\t\t\tdist[y] = dist[x] + 1;\n\t\t\t}\n\t\t}",
+			"s",
+			"cnt",
+			"i",
+			"- n *",
+			"i",
+			"unhappy_pass",
+			"unhappy",
+			"unhappy[i]",
+			"pass",
+			"1000",
+			"fout",
+			"\"",
+			"}));\n",
+			"\t\n",
+			"n",
+			"{\n",
+			"isComposite",
+			");\n",
+			"[_, ti, idx]",
+			"1",
+			"MOD",
+			"ll",
+			"dfs",
+			"i",
+			"s.back",
+			"back();",
+			"back()",
+			"evens",
+			"pop_back",
+			"solve",
+			"isComposite",
+			" ",
+			"-1",
+			" ",
+			"]",
+			"[",
+			"points_by_x",
+			"]",
+			"[",
+			"]",
+			"["
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
+			"c",
+			"b",
+			"",
 			"N",
 			"B",
 			"",
@@ -1711,7 +1796,7 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
+		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
@@ -1726,15 +1811,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1177,
+						"buffer_size": 1399,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1138,
-								1138
+								1263,
+								1263
 							]
 						],
 						"settings":
@@ -1750,30 +1835,30 @@
 				},
 				{
 					"buffer": 1,
-					"file": "python.py",
+					"file": "check.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 405,
+						"buffer_size": 1354,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								368,
-								368
+								1117,
+								1117
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -1782,77 +1867,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2438,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1376,
-								1376
-							]
-						],
-						"settings":
-						{
-							"colorcode": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 714.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "in.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 24,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								23,
-								23
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 4,
-					"file": "out.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
+						"buffer_size": 2407,
 						"regions":
 						{
 						},
@@ -1865,10 +1880,70 @@
 						],
 						"settings":
 						{
-							"colorcode": true,
-							"history_list_is_closing": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"word_wrap": true
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "python.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "in.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1878,11 +1953,46 @@
 					"type": "text"
 				}
 			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "out.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 44.0
+		"height": 39.0
 	},
 	"input":
 	{
@@ -1914,20 +2024,24 @@
 		"cols":
 		[
 			0.0,
-			0.538434537686,
+			0.518319171835,
 			1.0
 		],
 		"rows":
 		[
 			0.0,
-			0.398118444504,
+			0.454648768197,
 			1.0
 		]
 	},
 	"menu_visible": false,
+	"output.Terminus":
+	{
+		"height": 109.0
+	},
 	"output.exec":
 	{
-		"height": 81.0
+		"height": 99.0
 	},
 	"output.find_results":
 	{
@@ -1955,6 +2069,18 @@
 		"selected_items":
 		[
 			[
+				"pret",
+				"prettyprint.hpp"
+			],
+			[
+				"pre",
+				"prettyprint.hpp"
+			],
+			[
+				"au",
+				"subl_settings/AutoFold.sublime-settings"
+			],
+			[
 				"tes",
 				"subl_settings/testcase.sublime-snippet"
 			],
@@ -1963,12 +2089,176 @@
 				"subl_settings/cpp.sublime-snippet"
 			],
 			[
-				"auto",
-				"subl_settings/AutoFold.sublime-settings"
+				"proje",
+				"fml.sublime-project"
 			],
 			[
-				"pre",
-				"prettyprint.hpp"
+				"check",
+				"subl_settings/checker.sublime-snippet"
+			],
+			[
+				"checker",
+				"checker.py"
+			],
+			[
+				"gv",
+				"subl_settings/getv.sublime-snippet"
+			],
+			[
+				"get",
+				"subl_settings/gets.sublime-snippet"
+			],
+			[
+				"getv",
+				"subl_settings/getv.sublime-snippet"
+			],
+			[
+				"gets",
+				"subl_settings/gets.sublime-snippet"
+			],
+			[
+				"py",
+				"python.py"
+			],
+			[
+				"che",
+				"checker.py"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"pro",
+				"fml.sublime-project"
+			],
+			[
+				"checer",
+				"subl_settings/checker.sublime-snippet"
+			],
+			[
+				"chec",
+				"check.cpp"
+			],
+			[
+				"check.",
+				"checker.py"
+			],
+			[
+				"test",
+				"subl_settings/testcase.sublime-snippet"
+			],
+			[
+				"cp",
+				"subl_settings/cpp.sublime-snippet"
+			],
+			[
+				"bito",
+				"subl_settings/bitop.sublime-snippet"
+			],
+			[
+				"rmq",
+				"subl_settings/rmq.sublime-snippet"
+			],
+			[
+				"bfs",
+				"subl_settings/bfs.sublime-snippet"
+			],
+			[
+				"dfs",
+				"subl_settings/dfs.sublime-snippet"
+			],
+			[
+				"bit",
+				"subl_settings/bitop.sublime-snippet"
+			],
+			[
+				"trie",
+				"subl_settings/trie.sublime-snippet"
+			],
+			[
+				"seg",
+				"subl_settings/segtree.sublime-snippet"
+			],
+			[
+				"pbd",
+				"subl_settings/pbds.sublime-snippet"
+			],
+			[
+				"tem",
+				"temp.cpp"
+			],
+			[
+				"last",
+				"last.cpp"
+			],
+			[
+				"te",
+				"temp.cpp"
+			],
+			[
+				"las",
+				"last.cpp"
+			],
+			[
+				"o",
+				"out.txt"
+			],
+			[
+				"old",
+				"old.py"
+			],
+			[
+				"p",
+				"python.py"
+			],
+			[
+				"bru",
+				"saved/brute.cpp"
+			],
+			[
+				"temp",
+				"temp.cpp"
+			],
+			[
+				"code1",
+				"code1.py"
+			],
+			[
+				"t",
+				"temp.cpp"
+			],
+			[
+				"out",
+				"out.txt"
+			],
+			[
+				"in.",
+				"in.txt"
+			],
+			[
+				"pytho",
+				"python.py"
+			],
+			[
+				"dsu",
+				"subl_settings/dsu.sublime-snippet"
+			],
+			[
+				"simple",
+				"subl_settings/cpp_simple.sublime-snippet"
+			],
+			[
+				"a.",
+				"a.cpp"
+			],
+			[
+				"a",
+				"a.cpp"
+			],
+			[
+				"auto",
+				"subl_settings/AutoFold.sublime-settings"
 			],
 			[
 				"save",
@@ -1987,28 +2277,8 @@
 				"saved.cpp"
 			],
 			[
-				"test",
-				"subl_settings/testcase.sublime-snippet"
-			],
-			[
-				"tem",
-				"temp.cpp"
-			],
-			[
-				"chec",
-				"subl_settings/checker.sublime-snippet"
-			],
-			[
 				"pyx",
 				"subl_settings/pyx.sublime-snippet"
-			],
-			[
-				"py",
-				"python.py"
-			],
-			[
-				"che",
-				"subl_settings/checker.sublime-snippet"
 			],
 			[
 				"ch",
@@ -2019,20 +2289,8 @@
 				"fml.sublime-project"
 			],
 			[
-				"make",
-				"Makefile"
-			],
-			[
 				"mak",
 				"Makefile"
-			],
-			[
-				"p",
-				"prettyprint.hpp"
-			],
-			[
-				"bit",
-				"subl_settings/bit.sublime-snippet"
 			],
 			[
 				"pps",
@@ -2041,18 +2299,6 @@
 			[
 				"br",
 				"saved/brute.cpp"
-			],
-			[
-				"bru",
-				"saved/brute.cpp"
-			],
-			[
-				"te",
-				"subl_settings/testcase.sublime-snippet"
-			],
-			[
-				"cp",
-				"subl_settings/cpp.sublime-snippet"
 			],
 			[
 				"ou",
@@ -2083,10 +2329,6 @@
 				"Makefile"
 			],
 			[
-				"proje",
-				"fml.sublime-project"
-			],
-			[
 				"sublimes",
 				"subl_settings/bit.sublime-snippet"
 			],
@@ -2097,10 +2339,6 @@
 			[
 				"px",
 				"subl_settings/pyx.sublime-snippet"
-			],
-			[
-				"temp",
-				"temp.cpp"
 			],
 			[
 				"c",
@@ -2139,14 +2377,6 @@
 				"notes.txt"
 			],
 			[
-				"o",
-				"out.txt"
-			],
-			[
-				"t",
-				"temp.cpp"
-			],
-			[
 				"te\t",
 				"temp.cpp"
 			],
@@ -2165,7 +2395,11 @@
 		[
 			[
 				"",
-				"~/Desktop/parser/parser.sublime-project"
+				"~/Desktop/chess2.0/chess2.sublime-project"
+			],
+			[
+				"aoc",
+				"~/Desktop/coding_stuff/aoc/aoc.sublime-workspace"
 			],
 			[
 				"col",
@@ -2181,7 +2415,7 @@
 		"selected_items":
 		[
 		],
-		"width": 517.0
+		"width": 592.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -2212,7 +2446,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": false,
-	"side_bar_width": 232.0,
+	"side_bar_width": 360.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

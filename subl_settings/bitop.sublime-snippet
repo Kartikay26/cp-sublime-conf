@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+int floorLog2(int n){
+    return (64 - __builtin_clzll(n) - 1);
+}
+int highestOneBit(int n) {
+    return n ? 1ll << floorLog2(n) : 0;
+}
+int lowestOneBit(int n) {
+    return n&-n;
+}
+template<int d>
+string binary(int x) {
+    return bitset<d>(x).to_string();
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bitop</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

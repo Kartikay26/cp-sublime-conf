@@ -1,9 +1,10 @@
 [
 	{
 	    "keys": ["ctrl+l"],
-	    "command": "exec",
+	    "command": "clear",
 	    "args": {
 	        "hide_phantoms_only": true
 	    }
 	},
+    { "keys": ["ctrl+`"], "command": "toggle_terminus_panel" },
 ]

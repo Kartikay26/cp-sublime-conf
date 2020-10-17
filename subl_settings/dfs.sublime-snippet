@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+set<int> vis;
+function<void(int, int)> dfs = [&](int x, int p) {
+    vis.insert(x);
+    $0
+    for (auto y : adj[x]) {
+        if (!vis.count(y)){
+            dfs(y, p+1);
+        }
+    }
+};
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>DFS</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.c++</scope>
+</snippet>
